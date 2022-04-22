@@ -1,0 +1,219 @@
+{
+  "momentLocale": "en-au",
+  "Account": {
+    "Broadcaster": {
+      "ChooseChannel": "Choose Channel",
+      "ChoosePublisher": "Choose Publisher",
+      "Error": {
+        "NoChannelChosen": "No channel is chosen"
+      }
+    },
+    "PageTitle": "Profile"
+  },
+  "Common": {
+    "Account": "Account",
+    "Back": "Back",
+    "Broadcast": {
+      "ChooseEndDate": "Select end date",
+      "ChooseEndTime": "Selected end time",
+      "ChooseStartDate": "Select start date",
+      "ChooseStartTime": "Select start time",
+      "Description": "Description",
+      "Duration": "Duration",
+      "Minuts": "minutes",
+      "NoPlanned": "No upcoming broadcasts",
+      "NoPrevious": "No previous broadcasts",
+      "OpenCamera": "Open camera",
+      "Title": "Title",
+      "Watch": "Watch Broadcast",
+      "starts_at": "Start time",
+      "ends_at": "End time",
+      "GoLive": "Go live",
+      "StopLive": "Stop live",
+      "title": "Title",
+      "description": "Description",
+      "categories": "Categories"
+    },
+    "Broadcasts": "Broadcasts",
+    "Cancel": "Cancel",
+    "ChannelOverview": "Channel overview",
+    "ChooseMunicipality": "Choose municipality",
+    "Close": "Close",
+    "Conditions": "Conditions",
+    "Confirm": "Confirm",
+    "Continue": "Continue",
+    "Create": "Create",
+    "DirectLink": "Direct link",
+    "Edit": "Edit",
+    "Email": "Email",
+    "Finish": "Finish",
+    "History": "History",
+    "LearnMore": "Learn More.",
+    "Login": {
+      "AlreadyUser": "Already a user?",
+      "ForgotPassword": "Forgot password?",
+      "Login": "Login",
+      "Logout": "Log out",
+      "NewUser": "New user",
+      "NotLoggedIn": "You are not logged in",
+      "NotUserYet": "Don't have an account yet?",
+      "Password": "Password",
+      "RepeatPassword": "Repeat password",
+      "Signup": "Signup",
+      "Username": "Username"
+    },
+    "OK": "OK",
+    "Planned": "Planned",
+    "Settings": "Settings",
+    "Skip": "Skip",
+    "Subscription": "Subscription",
+    "TVGuide": "TVGuide",
+    "Update": "Update",
+    "YourMunicipality": "Your municipality",
+    "From": "From",
+    "To": "To",
+    "Categories": "Categories",
+    "Save": "Save",
+    "Delete": "Delete",
+    "Statistics": "Statistics",
+    "Viewers": "Viewers",
+    "Price": "Price",
+    "Channel": "Channel"
+  },
+  "Info": {
+    "Age": {
+      "Confirm": "Yes, i am 18 or older",
+      "Dialog": {
+        "AvoidPrompt": "You can avoid this prompt by creating an account"
+      },
+      "Question": "Are you over 18?",
+      "Required": "You need to be 18+ to use Zome"
+    },
+    "AreYouSure": "Are you sure?",
+    "Broadcast": {
+      "LatestCreatedBroadcast": "Latest created broadcast",
+      "Manage": {
+        "Conditions": {
+          "Required": "You need to accept the conditions"
+        },
+        "DateTime": {
+          "EndDate": {
+            "Minimum": "You can not create a broadcast earlier than today",
+            "Required": "Choose end date and time is required",
+            "AfterStartDate": "End time must be after the set start time"
+          },
+          "StartDate": {
+            "Minimum": "You can not create a broadcast earlier than today",
+            "Required": "Select start date and time is required"
+          }
+        },
+        "Description": {
+          "Required": "Description is required",
+          "TooLong": "Description is too long, max. 255 letters",
+          "TooShort": "Description is too short, min. 3 letters"
+        },
+        "Duration": {
+          "Error": "Select valid duration is required",
+          "Required": "Selecting a duration is required"
+        },
+        "PolicyDialog": {
+          "Copyright": "I have ensured rights to copyrighted material used in this broadcast",
+          "ParticipantsConsent": "All participants consent to broadcasting",
+          "Threats": "This broadcast does not contain direct threats",
+          "Title": "Compliance with policies"
+        },
+        "Sponsored": {},
+        "Title": {
+          "Required": "Title is required",
+          "TooLong": "Title is too long, max. 40 letters",
+          "TooShort": "Title is too short, min. 3 letters"
+        },
+        "Categories": {
+          "Required": "At least 1 category is required",
+          "Text": "Choose categories"
+        },
+        "is_paid": {
+          "Required": "Choose if the broadcast is paid",
+          "Text": "The broadcast requires payment"
+        },
+        "price": {
+          "Required": "Define a price for the broadcast"
+        },
+        "currency": {
+          "Required": "Define a currency for the broadcast"
+        },
+        "sponsored": {
+          "Required": "Does this broadcast contain sponsored material?",
+          "Text": "Sponsored material?"
+        }
+      },
+      "YouHaveNoBroadcasts": "You have no broadcasts"
+    },
+    "GoToWebsiteToManage": "You can not manage your profile in the mobile app",
+    "Login": {
+      "Email": {
+        "Invalid": "Invalid email address",
+        "Required": "An email address is required"
+      },
+      "Password": {
+        "Match": "Passwords have to match",
+        "Required": "Password is required",
+        "TooLong": "Password is too long, max. 255 letters",
+        "TooShort": "Password is too short, min. 3 letters"
+      },
+      "Required": "You have to be logged in to access additional functionality. Login here or signup",
+      "Username": {
+        "Required": "Username is required",
+        "TooLong": "Username is too long, max. 255 letters",
+        "TooShort": "Username is too short, min. 1 letters"
+      }
+    },
+    "NoGoBack": "No, go back",
+    "NotAbleToStartBroadcasting": "You cant start broadcasting until 2 mins before",
+    "TOS": {
+      "Confirm": "Yes, i have read and accept the terms of service",
+      "Read": "Read rules and terms of service",
+      "Required": "You have to comply with our policies"
+    },
+    "ThisWillDelete": "This will delete",
+    "ValidationFailed": "Validation failed",
+    "VisitWebsiteToPay": "Visit our website to pay for this broadcast",
+    "YesDelete": "Yes, delete"
+  },
+  "Meta": {
+    "LocaleCode": "en-US"
+  },
+  "OnBoarding": {
+    "Card0": {
+      "Text": "Create a broadcast from the menu or by clicking the “+” in the planned broadcasts section",
+      "Title": "Create broadcast"
+    },
+    "Card1": {
+      "Text": "Need an entrance fee for your event? No problem! During event creation, just select “paid Stream” and set the required a mount. Now you are ready to recieve payments for your event!",
+      "Title": "Monetize Your Content"
+    },
+    "Card2": {
+      "Text": "When the event reaches the start-time, you are ready to GO LIVE",
+      "Title": "GO LIVE!"
+    },
+    "PageTitle": "OnBoarding"
+  },
+  "Status": {
+    "Creating": "Creating...",
+    "LoadingChannels": "Loading channels...",
+    "LoadingPublishers": "Loading publishers...",
+    "LogginIn": "Logging in...",
+    "Updates": "Updates...",
+    "UserCreated": "User created"
+  },
+  "localeCode": "en-US",
+  "Currency": {
+    "Format": "$ {{money}}",
+    "CurrencyJSPattern": "! #",
+    "Symbol": "$",
+    "Decimal": ".",
+    "Seperator": ",",
+    "Precision": "2",
+    "Default": "USD"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "DKK": {
+    "code": "DKK",
+    "symbol": "kr.",
+    "base": 10,
+    "exponent": 2
+  },
+
+  "USD": {
+    "code": "USD",
+    "symbol": "$",
+    "base": 10,
+    "exponent": 2
+  },
+
+  "SEK": {
+    "code": "SEK",
+    "symbol": "kr.",
+    "base": 10,
+    "exponent": 2
+  },
+
+  "NOK": {
+    "code": "NOK",
+    "symbol": "kr.",
+    "base": 10,
+    "exponent": 2
+  },
+
+  "EUR": {
+    "code": "EUR",
+    "symbol": "€",
+    "base": 10,
+    "exponent": 2
+  },
+
+  "GBP": {
+    "code": "GBP",
+    "symbol": "£",
+    "base": 10,
+    "exponent": 2
+  }
+}

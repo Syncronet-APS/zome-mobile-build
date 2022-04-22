@@ -1,0 +1,218 @@
+{
+  "momentLocale": "da",
+  "Account": {
+    "Broadcaster": {
+      "ChooseChannel": "Vælg kanal",
+      "ChoosePublisher": "Vælg udgiver",
+      "Error": {
+        "NoChannelChosen": "Ingen kanal er valgt"
+      }
+    },
+    "PageTitle": "Profil"
+  },
+  "Common": {
+    "Account": "Konto",
+    "Back": "Tilbage",
+    "Broadcast": {
+      "ChooseEndDate": "Vælg slut dato",
+      "ChooseEndTime": "Vælg slut tidspunkt",
+      "ChooseStartDate": "Vælg start dato",
+      "ChooseStartTime": "Vælg start tidspunkt",
+      "Description": "Beskrivelse",
+      "Duration": "Varighed",
+      "Minuts": "minutter",
+      "NoPlanned": "Ingen planlagte udsendelser",
+      "NoPrevious": "Ingen tidligere udsendelser",
+      "OpenCamera": "Åbn kamera",
+      "Title": "Titel",
+      "Watch": "Se udsendelse",
+      "starts_at": "Start tid",
+      "ends_at": "Slut tid",
+      "title": "Titel",
+      "description": "Beskrivelse",
+      "categories": "Kategorier",
+      "GoLive": "Gå live",
+      "StopLive": "Stop live"
+    },
+    "Broadcasts": "Udsendelser",
+    "Cancel": "Annuler",
+    "ChannelOverview": "Kanal oversigt",
+    "ChooseMunicipality": "Vælg kommune",
+    "Close": "Luk",
+    "Conditions": "Betingelser",
+    "Confirm": "Godkend",
+    "Continue": "Fortsæt",
+    "Create": "Opret",
+    "DirectLink": "Direkte link",
+    "Edit": "Rediger",
+    "Email": "Email",
+    "Delete": "Slet",
+    "Finish": "Færdig",
+    "History": "Historie",
+    "LearnMore": "Læs mere",
+    "Login": {
+      "AlreadyUser": "Allerede en bruger?",
+      "ForgotPassword": "Glemt kodeord?",
+      "Login": "Log ind",
+      "Logout": "Log ud",
+      "NewUser": "Ny bruger",
+      "NotLoggedIn": "Du er ikke logget ind",
+      "NotUserYet": "Ikke oprettet endnu?",
+      "Password": "Kodeord",
+      "RepeatPassword": "Gentag kodeord",
+      "Signup": "Registrer",
+      "Username": "Brugernavn"
+    },
+    "OK": "OK",
+    "Planned": "Planlagt",
+    "Settings": "Indstillinger",
+    "Skip": "Spring over",
+    "Subscription": "Abonnement",
+    "TVGuide": "TVGuide",
+    "Update": "Opdater",
+    "YourMunicipality": "Din kommune",
+    "From": "Fra",
+    "To": "Til",
+    "Categories": "Kategorier",
+    "Save": "Gem",
+    "Statistics": "Statistik",
+    "Viewers": "Seere",
+    "Price": "Pris",
+    "Channel": "Kannal"
+  },
+  "Info": {
+    "Age": {
+      "Confirm": "Ja, jeg er over 18",
+      "Dialog": {
+        "AvoidPrompt": "Du kan undgå denne prompt ved at oprette en bruger"
+      },
+      "Question": "Er du over 18?",
+      "Required": "Du skal være over 18 for at bruge Zome"
+    },
+    "AreYouSure": "Er du sikker?",
+    "Broadcast": {
+      "LatestCreatedBroadcast": "Senest oprettede udsendelse",
+      "Manage": {
+        "Conditions": {
+          "Required": "Du skal acceptere vores betingelser før du kan fortsætte"
+        },
+        "DateTime": {
+          "EndDate": {
+            "Minimum": "Du kan tidligst oprette en udsendelse for idag",
+            "Required": "Valg af slut dato og tid er påkrævet",
+            "AfterStartDate": "Slut tidspunkt skal være efter start tidspunkt"
+          },
+          "StartDate": {
+            "Minimum": "Du kan tidligst oprette en udsendelse for idag",
+            "Required": "Start dato og tidspunkt er påkrævet"
+          }
+        },
+        "Description": {
+          "Required": "Beskrivelse er påkrævet",
+          "TooLong": "Beskrivelsen er for lang, max 255 bogstaver",
+          "TooShort": "Beskrivelsen er for kort, min 3 bogstaver"
+        },
+        "Duration": {
+          "Error": "Du skal vælge en gyldig varighed",
+          "Required": "Du skal vælge en varighed"
+        },
+        "PolicyDialog": {
+          "Copyright": "Jeg har sikret mig rettigheder/har licens til evt. copyright materiale.",
+          "ParticipantsConsent": "Alle deltagere har givet samtykke til medvirken i udsendelsen.",
+          "Threats": "Udsendelsen indeholder ikke direkte trusler.",
+          "Title": "Overholdelse af politikker"
+        },
+        "sponsored": {
+          "Text": "Sponsoreret materiale?",
+          "Required": "Indeholder udsendelsen sponsoreret materiale?"
+        },
+        "Title": {
+          "Required": "Titel er påkrævet",
+          "TooLong": "Titel er for lang, maks 40 bogstaver",
+          "TooShort": "Titel er for kort, min 3 bogstaver"
+        },
+        "Categories": {
+          "Text": "Vælg kategorier",
+          "Required": "Du skal vælge mindst 1 kategori"
+        },
+        "is_paid": {
+          "Text": "Streamen kræver betaling for at se",
+          "Required": "Du skal vælge om der skal betales for at se udsendelsen"
+        },
+        "currency": {
+          "Required": "Du skal vælge en kurs"
+        },
+        "price": {
+          "Required": "Du skal taste en pris"
+        }
+      },
+      "YouHaveNoBroadcasts": "Du har ingen udsendelser"
+    },
+    "GoToWebsiteToManage": "Du kan ikke ændrer din profil fra mobil appen",
+    "Login": {
+      "Email": {
+        "Invalid": "Ugyldig email",
+        "Required": "Email er påkrævet"
+      },
+      "Password": {
+        "Match": "Kodeord skal være ens",
+        "Required": "Kodeord er påkrævet",
+        "TooLong": "Kodeord er for lang, maks 255 bogstaver",
+        "TooShort": "Kodeord er for kort, min 3 bogstaver"
+      },
+      "Required": "Du er nødt til at være logget ind for at få adgang til yderligere funktionalitet. Login herunder eller registrér dig og bliv en del af fællesskabet!",
+      "Username": {
+        "Required": "Brugernavn er påkrævet",
+        "TooLong": "Brugernavn er for langt, maks 255 bogstaver",
+        "TooShort": "Brugernavn er for kort, min 1 bogstav"
+      }
+    },
+    "NoGoBack": "Nej, gå tilbage",
+    "NotAbleToStartBroadcasting": "Du kan først start broadcasting 2 min før tid",
+    "TOS": {
+      "Confirm": "Ja, Jeg har læst og accepterer vilkårene for brug",
+      "Read": "Læs regler og vilkår for brug af appen.",
+      "Required": "Du skal være indforstået med vores brugsvilkår."
+    },
+    "ThisWillDelete": "Dette vil slette",
+    "ValidationFailed": "Validering fejlet",
+    "VisitWebsiteToPay": "Besøg vores hjemmeside for at betale for denne udsendelse",
+    "YesDelete": "Ja, slet"
+  },
+  "Meta": {
+    "LocaleCode": "da"
+  },
+  "OnBoarding": {
+    "Card0": {
+      "Text": "Opret en udsendelse via menuen eller ved at trykke på \"+\" i sektionen for planlagte udsendelser ",
+      "Title": "Opret udsendelse"
+    },
+    "Card1": {
+      "Text": "Vil du gerne kunne modtage betaling for dit event? Intet problem! Når du opretter din udsendelse, skal du blot angive om din udsendelse kræver betaling og sætte det ønskede beløb.",
+      "Title": "Modtag betaling for indholdet"
+    },
+    "Card2": {
+      "Text": "Når starttidspunktet for din udsendelse oprinder, er du klar til at GÅ LIVE",
+      "Title": "GÅ LIVE!"
+    },
+    "PageTitle": "OnBoarding"
+  },
+  "Status": {
+    "Creating": "Opretter...",
+    "LoadingChannels": "Læser kanaler...",
+    "LoadingPublishers": "Læser udgivere...",
+    "LogginIn": "Logger ind...",
+    "Updates": "Opdaterer...",
+    "UserCreated": "Bruger oprettet"
+  },
+  "localeCode": "da-DK",
+  "Currency": {
+    "Format": "{{money}} DKK",
+    "CurrencyJSPattern": "# !",
+    "Symbol": " kr.",
+    "Decimal": ",",
+    "Seperator": ".",
+    "Precision": "2",
+    "Default": "DKK"
+  }
+}
