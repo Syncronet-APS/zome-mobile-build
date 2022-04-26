@@ -145,6 +145,14 @@
         "sponsored": {
           "Required": "Does this broadcast contain sponsored material?",
           "Text": "Sponsored material?"
+        },
+        "should_be_recorded": {
+          "Required": "Save broadcast cannot be null",
+          "Text": "Save broadcast?"
+        },
+        "DeleteDialog": {
+          "Title": "Delete broadcast",
+          "Body": "Are you sure you want to delete this broadcast? This action cannot be reversed."
         }
       },
       "YouHaveNoBroadcasts": "You have no broadcasts"

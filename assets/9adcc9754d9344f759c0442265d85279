@@ -144,6 +144,14 @@
         },
         "price": {
           "Required": "Du skal taste en pris"
+        },
+        "should_be_recorded": {
+          "Required": "Gem udsendelse kan ikke være null",
+          "Text": "Gem udsendelse?"
+        },
+        "DeleteDialog": {
+          "Body": "Er du sikker på at du vil slette denne udsendelse?",
+          "Title": "Slet udsendelse"
         }
       },
       "YouHaveNoBroadcasts": "Du har ingen udsendelser"
